@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "71258a97_1d1ab194",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020555
+      },
+      "writtenOn": "2022-10-04T04:03:37Z",
+      "side": 1,
+      "message": "amend for lab 2, task 5 ",
+      "revId": "d0d7cd3d4ec0cd50160eb826074f50a7dae6d9f8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
